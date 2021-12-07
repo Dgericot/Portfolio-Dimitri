@@ -4,7 +4,7 @@
 
 https://dgericot.github.io/DimitriGericot_2_26112020/ 
 ```
-## Compétences évaluées 
+ Compétences évaluées 
 ```
 ● Utiliser un système de gestion de versions pour le suivi du projet et son hébergement</br> 
 ● Mettre en place son environnement Front-End</br> 
@@ -15,7 +15,7 @@ https://dgericot.github.io/DimitriGericot_2_26112020/
 
 https://dgericot.github.io/DimitriGericot_3_26112020/
 ``` 
-## Compétences évaluées
+ Compétences évaluées
 ```
 ● Mettre en oeuvre des effets CSS graphiques avancés</br>
 ● Mettre en place une structure de navigation pour un site web</br>
@@ -25,7 +25,7 @@ https://dgericot.github.io/DimitriGericot_3_26112020/
 
 https://dgericot.github.io/DimitriGericot_4_26112020/ 
 ```
-## Compétences évaluées
+ Compétences évaluées
 ```
 ● Assurer l'accessibilité d'un site web</br>
 ● Écrire un code HTML et CSS maintenable</br>
@@ -37,7 +37,7 @@ https://dgericot.github.io/DimitriGericot_4_26112020/
 
 https://github.com/Dgericot/DimitriGericot_5_26112020
 ```
-## Compétences évaluées
+ Compétences évaluées
 ```
 ● Interagir avec un web service avec JavaScript</br>
 ● Valider des données issues de sources externes</br>
@@ -48,7 +48,7 @@ https://github.com/Dgericot/DimitriGericot_5_26112020
 
 https://github.com/Dgericot/DimitriGericot_6_26112020
 ```
-## Compétences évaluées 
+ Compétences évaluées 
 ```
 ● Mettre en oeuvre des opérations CRUD de manière sécurisée</br> 
 ● Stocker des données de manière sécurisée</br>  
@@ -58,7 +58,7 @@ https://github.com/Dgericot/DimitriGericot_6_26112020
 
 En cours/Finalisation prévue pour fin décembre 2021
 ```
-## Compétences évaluées 
+ Compétences évaluées 
 ```
 ● Personnaliser le contenu envoyé à un client web</br>
 ● Gérer un stockage de données à l'aide de SQL</br>
