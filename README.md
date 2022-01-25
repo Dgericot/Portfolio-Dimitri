@@ -1,4 +1,4 @@
-# Mes réalisations 2020-2021
+# Mes réalisations 
 
 ## Projet 1: Transformer une maquette en site web
 
@@ -61,7 +61,7 @@ https://github.com/Dgericot/DimitriGericot_6_26112020
 *****************************************************************************
 ## Projet 6 : Créer un réseau social d’entreprise
 
-En cours/Finalisation prévue pour fin décembre 2021
+En cours sur la partie théorique/ Début de l'implémentation du projet en février 2022
 
  Compétences évaluées 
 ```
