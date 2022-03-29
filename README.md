@@ -61,8 +61,6 @@ https://github.com/Dgericot/DimitriGericot_6_26112020
 *****************************************************************************
 ## Projet 6 : Créer un réseau social d’entreprise
 
-En cours sur la partie théorique/ Début de l'implémentation du projet en février 2022
-
  Compétences évaluées 
 ```
 ● Personnaliser le contenu envoyé à un client web
